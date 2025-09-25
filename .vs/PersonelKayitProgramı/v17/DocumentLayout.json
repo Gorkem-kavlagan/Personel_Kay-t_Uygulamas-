@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gorke\\OneDrive\\Desktop\\Yaz\u0131l\u0131msal\\c#\\PersonelKayitProgram\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6360A1C8-CDB7-47DB-894F-73B55E053F57}|PersonelKayitProgram\u0131.csproj|C:\\Users\\gorke\\OneDrive\\Desktop\\Yaz\u0131l\u0131msal\\c#\\PersonelKayitProgram\u0131\\frm_istatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6360A1C8-CDB7-47DB-894F-73B55E053F57}|PersonelKayitProgram\u0131.csproj|solutionrelative:frm_istatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6360A1C8-CDB7-47DB-894F-73B55E053F57}|PersonelKayitProgram\u0131.csproj|c:\\users\\gorke\\onedrive\\desktop\\yaz\u0131l\u0131msal\\c#\\personelkayitprogram\u0131\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6360A1C8-CDB7-47DB-894F-73B55E053F57}|PersonelKayitProgram\u0131.csproj|solutionrelative:frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6360A1C8-CDB7-47DB-894F-73B55E053F57}|PersonelKayitProgram\u0131.csproj|C:\\Users\\gorke\\OneDrive\\Desktop\\Yaz\u0131l\u0131msal\\c#\\PersonelKayitProgram\u0131\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6360A1C8-CDB7-47DB-894F-73B55E053F57}|PersonelKayitProgram\u0131.csproj|solutionrelative:frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6360A1C8-CDB7-47DB-894F-73B55E053F57}|PersonelKayitProgram\u0131.csproj|C:\\Users\\gorke\\OneDrive\\Desktop\\Yaz\u0131l\u0131msal\\c#\\PersonelKayitProgram\u0131\\frm_istatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6360A1C8-CDB7-47DB-894F-73B55E053F57}|PersonelKayitProgram\u0131.csproj|solutionrelative:frm_istatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frm_istatistik.cs",
+              "DocumentMoniker": "C:\\Users\\gorke\\OneDrive\\Desktop\\Yaz\u0131l\u0131msal\\c#\\PersonelKayitProgram\u0131\\Frm_istatistik.cs",
+              "RelativeDocumentMoniker": "Frm_istatistik.cs",
+              "ToolTip": "C:\\Users\\gorke\\OneDrive\\Desktop\\Yaz\u0131l\u0131msal\\c#\\PersonelKayitProgram\u0131\\Frm_istatistik.cs",
+              "RelativeToolTip": "Frm_istatistik.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:16:47.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Frm_istatistik.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\gorke\\OneDrive\\Desktop\\Yaz\u0131l\u0131msal\\c#\\PersonelKayitProgram\u0131\\Frm_istatistik.cs",
+              "RelativeDocumentMoniker": "Frm_istatistik.cs",
+              "ToolTip": "C:\\Users\\gorke\\OneDrive\\Desktop\\Yaz\u0131l\u0131msal\\c#\\PersonelKayitProgram\u0131\\Frm_istatistik.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Frm_istatistik.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:16:47.726Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAnaform.cs",
+              "DocumentMoniker": "C:\\Users\\gorke\\OneDrive\\Desktop\\Yaz\u0131l\u0131msal\\c#\\PersonelKayitProgram\u0131\\frmAnaform.cs",
+              "RelativeDocumentMoniker": "frmAnaform.cs",
+              "ToolTip": "C:\\Users\\gorke\\OneDrive\\Desktop\\Yaz\u0131l\u0131msal\\c#\\PersonelKayitProgram\u0131\\frmAnaform.cs",
+              "RelativeToolTip": "frmAnaform.cs",
+              "ViewState": "AQIAAIoAAAAAnJmZmZn5vxcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:16:47.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAnaform.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\gorke\\OneDrive\\Desktop\\Yaz\u0131l\u0131msal\\c#\\PersonelKayitProgram\u0131\\frmAnaform.cs",
+              "RelativeDocumentMoniker": "frmAnaform.cs",
+              "ToolTip": "C:\\Users\\gorke\\OneDrive\\Desktop\\Yaz\u0131l\u0131msal\\c#\\PersonelKayitProgram\u0131\\frmAnaform.cs [Tasar\u0131m]",
+              "RelativeToolTip": "frmAnaform.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:16:47.756Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
